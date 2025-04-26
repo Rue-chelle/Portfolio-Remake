@@ -23,6 +23,11 @@
 #hero p{
     max-width: 500px;
 }
+#typed {
+  color: #0d6efd; /* Primary color */
+  font-weight: 600;
+}
+
 /* About section*/
 #about {
   background: #f8f9fa; /* Light grey background */
