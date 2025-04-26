@@ -23,3 +23,11 @@
 #hero p{
     max-width: 500px;
 }
+/* About section*/
+#about {
+  background: #f8f9fa; /* Light grey background */
+}
+
+#about h2 {
+  color: #0d6efd; /* Bootstrap primary color */
+}
