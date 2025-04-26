@@ -9,10 +9,7 @@
 .nav-link.active{
     color: #0d6efd;
 }
-
-
-
-
+/* Hero section */
 #hero{
     min-height: 80vh;
     display: flex;
