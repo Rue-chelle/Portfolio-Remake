@@ -1,3 +1,4 @@
+/*nav bar*/
 .navbar-brand{
     letter-spacing: 1px;
 }
@@ -49,4 +50,14 @@
   transform: translateY(-5px);
   transition: all 0.3s ease-in-out;
 }
+/*Skills*/
+#skills img {
+  max-width: 100%;
+  border-radius: 15px;
+}
+
+.progress {
+  background-color: #e9ecef; /* Light grey background */
+}
+
 
