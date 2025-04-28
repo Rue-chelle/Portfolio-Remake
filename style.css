@@ -137,15 +137,15 @@ section {
   background: #0d6efd;
 }
 
-/* ====== Stats Section ====== */
-#stats h2 {
-  font-size: 2.5rem;
+/* Stats Section */
+#stats {
+  background: #f8f9fa;
 }
 #stats p {
-  font-size: 1.1rem;
-  color: #555;
+  letter-spacing: 1.5px;
+  font-size: 0.9rem;
+  color: #6c757d;
 }
-
 /* ====== Portfolio Section ====== */
 #portfolio img {
   border-radius: 15px;
